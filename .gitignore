@@ -8,3 +8,5 @@ build
 *.cfg
 settings.py
 bootstrap.py
+.project
+.pydevproject
